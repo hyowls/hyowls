@@ -6,13 +6,10 @@
   
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=83B4FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 - Framework
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=black&labelColor=EEF7FF&color=EEF7FF)
 ![Next.js](https://img.shields.io/badge/-Next.js-004940?style=for-the-badge&logo=next.js)
 - Library
   
@@ -22,6 +19,5 @@
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 </br>
 ![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=7E8EF1&color=7E8EF1)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=5AB2FF&color=5AB2FF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-2F3645?style=for-the-badge&logo=supabase)
